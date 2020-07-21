@@ -1,0 +1,16 @@
+{
+  "name": "react-zebra",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "LinusU/react-zebra",
+  "scripts": {
+    "test": "standard && ts-readme-generator --check"
+  },
+  "peerDependencies": {
+    "react": ">=16"
+  },
+  "devDependencies": {
+    "standard": "^14.3.4",
+    "ts-readme-generator": "^0.4.3"
+  }
+}
